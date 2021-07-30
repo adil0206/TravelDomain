@@ -6,6 +6,7 @@ public class Splash {
 		System.out.println("Hello");
 		System.out.println("Adil");
 		System.out.println("Prashant is the best developer in the world");
+		System.out.println("Hello Friends by TL");
 	}
 
 }
