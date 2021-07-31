@@ -1,4 +1,4 @@
-package travel.management.system;
+package com.nt.login;
 
 public class Login {
 	public static void main(String[] args) {
